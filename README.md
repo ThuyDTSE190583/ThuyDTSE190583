@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:About me
-🎓 I graduated from FPT University Quy Nhơn AI Campus (2021 - 2025 | GPA: 3.3/4)
+🎓 I graduated from FPT University HCM Campus (2021 - 2025 | GPA: 3.3/4)
 
 🔮 I want to become a Backend Developer
 
