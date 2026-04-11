@@ -1,5 +1,17 @@
 
-## 🌐 Socials:
+## 🌐 Socials:About me
+🎓 I graduated from FPT University Quy Nhơn AI Campus (2021 - 2025 | GPA: 3.3/4)
+
+🔮 I want to become a Backend Developer
+
+❤️ Coding, writing novels, listening to EDM, and anything about code
+
+🔭 I’m currently working with .NET / Node.js
+
+💬 Ask me about TypeScript, C#
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thu%E1%BB%B3-%C4%91%E1%BB%97-thanh-670520346/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thanhthuy2512_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dotthanhthuy95@gmail.com) 
 
 # 💻 Tech Stack:
